@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://dollarcat.coding.me/"/>
   <updated>2019-11-01T17:02:06.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://dollarcat.coding.me/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>记部署hexo至码云以及github的坑</title>
-    <link href="http://yoursite.com/2019/11/01/deploy-blog/"/>
-    <id>http://yoursite.com/2019/11/01/deploy-blog/</id>
+    <link href="http://dollarcat.coding.me/2019/11/01/deploy-blog/"/>
+    <id>http://dollarcat.coding.me/2019/11/01/deploy-blog/</id>
     <published>2019-11-01T14:01:34.000Z</published>
     <updated>2019-11-01T17:02:06.000Z</updated>
     
@@ -35,17 +35,17 @@
     </summary>
     
     
-      <category term="tools" scheme="http://yoursite.com/categories/tools/"/>
+      <category term="tools" scheme="http://dollarcat.coding.me/categories/tools/"/>
     
     
-      <category term="blog" scheme="http://yoursite.com/tags/blog/"/>
+      <category term="blog" scheme="http://dollarcat.coding.me/tags/blog/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/10/22/hello-world/"/>
-    <id>http://yoursite.com/2019/10/22/hello-world/</id>
+    <link href="http://dollarcat.coding.me/2019/10/22/hello-world/"/>
+    <id>http://dollarcat.coding.me/2019/10/22/hello-world/</id>
     <published>2019-10-22T04:46:19.070Z</published>
     <updated>2019-10-22T04:46:20.000Z</updated>
     
